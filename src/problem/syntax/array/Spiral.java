@@ -1,10 +1,10 @@
-package problem.array.spiral;
+package problem.syntax.array;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-class Main {
+class Spiral {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();

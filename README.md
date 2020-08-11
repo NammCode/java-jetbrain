@@ -1,9 +1,13 @@
-#Jet Brain Project 
+# Easy Project 
 - Simple Chatty Bot
 - Coffee Machine
 - Tic Tac Toe
 
-#Jet Brain Problem
+# Medium Project
+- Numeral Converter System
+- Readability Score (doing)
+
+# Problem
 - Pretty Color
 - Spiral Matrix
 - Sudoku
